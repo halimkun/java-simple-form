@@ -1,2 +1,2 @@
-# java-simple-form
+# java simple form
 Simple Java Form Example
